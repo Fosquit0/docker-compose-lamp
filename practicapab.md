@@ -63,16 +63,16 @@ Despliegue y administración de un entorno LAMP mediante Docker Compose en una r
 ## Evidencias de funcionamiento
 
 ### 1. Contenedores activos en Docker Desktop
-![Contenedores activos](capturas/docker.png)
+![Contenedores activos](imagenes/docker.png)
 
 ### 2. Página de información del servidor (`smr.php`)
-![Página de información del servidor](capturas/servidor.png)
+![Página de información del servidor](imagenes/servidor.png)
 
 ### 3. Registros de la base de datos en phpMyAdmin
-![Registros en MySQL](capturas/mysql.png)
+![Registros en MySQL](imagenes/mysql.png)
 
 ### 4. Directorio de servicios consultado desde PHP (`servicios.php`)
-![Directorio de servicios desde PHP](capturas/servicios.png)
+![Directorio de servicios desde PHP](imagenes/servicios.png)
 
 ## Reto adicional (puerto 9090)
 
