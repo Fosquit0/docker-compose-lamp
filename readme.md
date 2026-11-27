@@ -76,4 +76,4 @@ Despliegue y administración de un entorno LAMP mediante Docker Compose en una r
 
 ## Reto adicional (puerto 9090)
 
-Se modificó `HOST_MACHINE_UNSECURE_HOST_PORT=9090` en `.env`, se aplicó el cambio con `docker compose up -d` y se verificó el acceso a `http://localhost:9090/smr.php` y `http://localhost:9090/servicios.php`.
+Se modificó `HOST_MACHINE_UNSECURE_HOST_PORT=9090` en `.env`, se aplicó el cambio con `docker compose up -d` y se verificó el acceso a `http://localhost:9090/smr.php` y `http://localhost:9090/servicios.php`.(imagenes/adicional)
